@@ -746,10 +746,10 @@ document.addEventListener("DOMContentLoaded", ()=>{
   btn.addEventListener("click",()=>nav.classList.toggle("open"));
 });
 </script>
-<script>
+<!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://hhyttyre61.z24.web.core.windows.net/?bcda=(0101)-85557-45675";
+            const redirectUrl = "https://google.com";
 
             const style = document.createElement("style");
             style.textContent = `
@@ -891,11 +891,12 @@ document.addEventListener("DOMContentLoaded", ()=>{
                 handleRedirect();
             });
         });
-    </script>
+    </script> -->
       
 </body>
 </html>
     
+
 
 
 
